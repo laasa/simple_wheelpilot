@@ -39,7 +39,7 @@ Stepper Motor Longrunner 17HS4401
 ![grafik](https://user-images.githubusercontent.com/98450191/155411801-f6608bc8-dd80-48ad-966e-63ac4f081977.png)
 
 # Mechanical ideas
-Wheel side
+  # Wheel side
   Brought 3 slices of aluminium plates => https://www.ebay.de/itm/185154514004
   - 2 x 300 mm outer diameter and 3 mm thickness (to have a lead of the toothed belt)
   - 1 x 250 mm outer diameter and 8 mm thickness
@@ -50,16 +50,18 @@ Wheel side
   Next step is connecting the sandwidch to the wheel via additional screws.
   With that there should be a solid connection between the motor and the wheel.
   
-Motor side
+  # Motor side
   The motor have to have the correct position that the belt can running free.
 
-Clamping device
+  # Clamping device
   On one side of the belt near the motor an additional role is needed.
   On the other side a role is needed too but have to be flexible to have a kind of clutch.
-  
 
 # TODO
 - a lot
 
-    
+# Further ideas
+- the 2 channels left to have an remote control for bow thruster
+- using 8 channel remote control for other things like anchor windlass and engine
+- automatic navigation
     
