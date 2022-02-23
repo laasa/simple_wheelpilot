@@ -36,4 +36,5 @@ Stepper Motor Longrunner 17HS4401
      A: Black, /A: Green
      B: Red  , /B: Blue
      
+![grafik](https://user-images.githubusercontent.com/98450191/155411801-f6608bc8-dd80-48ad-966e-63ac4f081977.png)
 
