@@ -61,7 +61,7 @@ Stepper Motor Longrunner 17HS4401
 - a lot
 
 # Further ideas
-- the 2 channels left to have an remote control for bow thruster
-- using 8 channel remote control for other things like anchor windlass and engine
+- the 2 channels left on remote control for bow thruster
+- using 8 channel remote control for other things (like anchor windlass and engine)
 - automatic navigation
     
